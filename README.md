@@ -1,2 +1,3 @@
 # HOMEWORK-1
 HOMEWORK 1 FOR CSC 487
+BY Abdulhakim Abayu
