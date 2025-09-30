@@ -1,6 +1,6 @@
 #Question 1 
 #Q1.A
-# Read the tab-delimited file
+# Read file
 su <- read.delim("C:/Users/hybaa/Desktop/CSC487/Su_raw_matrix.txt")
 
 
@@ -109,3 +109,4 @@ diabetes <- read.csv("C:/Users/hybaa/Desktop/CSC487/diabetes_train.csv")
 
 # Calculate selected percentiles for 'skin'
 quantile(diabetes$skin, probs = c(0.10, 0.30, 0.50, 0.60), na.rm = TRUE)
+
